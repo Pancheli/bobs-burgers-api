@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Bobs Burgers';
+  src: url(./fonts/Bobs-Burgers.ttf) format('opentype');
+}
+
+.App {
+  font-family: Bobs Burgers;
+}
+
+ul {
+  list-style: none;
+}
