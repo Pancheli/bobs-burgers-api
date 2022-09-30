@@ -17,10 +17,3 @@ code {
   src: url(./fonts/Bobs-Burgers.ttf) format('opentype');
 }
 
-.App {
-  font-family: Bobs Burgers;
-}
-
-ul {
-  list-style: none;
-}
