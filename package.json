@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "axios": "^1.2.1",
     "gh-pages": "^4.0.0"
   }
 }
