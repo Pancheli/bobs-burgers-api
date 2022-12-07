@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/bobs-burgers-api/static/css/main.e525df10.css",
-    "main.js": "/bobs-burgers-api/static/js/main.cdfef451.js",
+    "main.css": "/bobs-burgers-api/static/css/main.1977f028.css",
+    "main.js": "/bobs-burgers-api/static/js/main.a01367f0.js",
     "static/media/logo.png": "/bobs-burgers-api/static/media/logo.04f49374cf17f9424597.png",
-    "static/media/Bobs-Burgers.ttf": "/bobs-burgers-api/static/media/Bobs-Burgers.10293e31671fffd9d8bf.ttf",
     "index.html": "/bobs-burgers-api/index.html",
-    "main.e525df10.css.map": "/bobs-burgers-api/static/css/main.e525df10.css.map",
-    "main.cdfef451.js.map": "/bobs-burgers-api/static/js/main.cdfef451.js.map"
+    "main.1977f028.css.map": "/bobs-burgers-api/static/css/main.1977f028.css.map",
+    "main.a01367f0.js.map": "/bobs-burgers-api/static/js/main.a01367f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e525df10.css",
-    "static/js/main.cdfef451.js"
+    "static/css/main.1977f028.css",
+    "static/js/main.a01367f0.js"
   ]
 }
